@@ -3,4 +3,5 @@ Can distinguish vehicle category
 Use email to login in and do not forget disable email check!  
 Server is your server munber id  
 eg. https://battlefieldtracker.com/bf1/servers/pc/7348802550369 ->[XJBW]#2wu gui ze fu/ban gu er che/QQqun:1104390472  
-this server id is 7348802550369
+this server id is 7348802550369  
+[demo](https://www.bilibili.com/video/BV1w34y157b8?vd_source=8f7deed3676707fdcb874e991dbe28e7#reply116900092144)
